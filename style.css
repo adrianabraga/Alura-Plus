@@ -19,14 +19,13 @@
 
 body{
     background-color: var(--cor-fundo);
-    color: purple;
+    color: var(--branco_primario);
     font-family: var(--fonte_prinicpal);  
     
 }
 
 .principal {
-    background-image: url("img/Background.png");
-    background-color: var(--cor-fundo);
+    /* background-image: url("img/Background.png"); */
     background-repeat: no-repeat;
     background-size: contain;
     font-weight: 700;
