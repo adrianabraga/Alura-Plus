@@ -179,3 +179,11 @@ body{
 .lista__link a:active {
 color: yellowgreen;
 }
+
+@media screen and (max-width: 768px) {
+    .container {
+        display: block;
+        background-image: none;
+    }
+
+}
