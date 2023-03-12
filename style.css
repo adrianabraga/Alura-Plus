@@ -19,7 +19,7 @@
 
 body{
     background-color: var(--cor-fundo);
-    color: var(--branco_primario);
+    color: purple;
     font-family: var(--fonte_prinicpal);  
     
 }
