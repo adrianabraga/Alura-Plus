@@ -189,5 +189,9 @@ color: yellowgreen;
     width: 50vw;
 }
 
+.container__caixa {
+    margin: 2em 2em;
+}
+
 
 }
