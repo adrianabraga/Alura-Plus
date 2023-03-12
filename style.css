@@ -204,4 +204,7 @@ color: yellowgreen;
 
 }
 
+.dispositivos__lista {
+    display: block;
+}
 }
